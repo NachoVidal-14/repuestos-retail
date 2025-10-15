@@ -27,7 +27,7 @@ export function Navbar() {
           <button
             className="border rounded-lg px-3 py-2"
             onClick={()=> router.push(`/catalog?query=${encodeURIComponent(q)}`)}
-          ><Search className="inline mr-1" size={16}/>Buscar</button>
+          ><Search className="inline mr-2" size={16}/>Buscar</button>
         </div>
         <nav className="ml-auto flex items-center gap-5">
           <Link href="/catalog">Catálogo</Link>
