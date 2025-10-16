@@ -1,22 +1,34 @@
 import Link from "next/link";
 import { ProductGrid } from "@/components/product-grid";
-import { PRODUCTS } from "../data/products";
-
+import { allProducts } from "@/lib/products";
+import PromoHero from "@/components/promo-hero";
+import CategoryBubbles from "@/components/category-bubbles";
 
 export default function Home() {
-  const destacados = PRODUCTS.slice(0, 2);
+  const destacados = allProducts().slice(0, 2);
+
+
   return (
-    <div className="space-y-8">
-      <section className="rounded-3xl bg-gradient-to-r from-gray-50 to-white p-8">
-        <h1 className="text-3xl md:text-4xl font-semibold">Encuentra el repuesto correcto, a la primera.</h1>
-        <p className="text-gray-600 mt-2">Busca por código OEM, SKU, categoría o tu vehículo.</p>
-        <div className="mt-4">
-          <Link href="/catalog" className="underline">Ver catálogo</Link>
-        </div>
-      </section>
+    <div className="space-y-10 md:space-y-12">
+      {/* HERO PROMOCIONAL */}
+      <PromoHero
+        title="Encuentra el repuesto correcto, a la primera."
+        subtitle="Busca por código OEM, SKU, categoría o tu vehículo."
+        promoLabel="Promoción de fin de año"
+        promoStrong="¡Hasta 20% dcto!"
+        ctaPrimaryHref="/catalog"
+        ctaPrimaryText="Ver catálogo"
+        ctaSecondaryHref="/vehicle"
+        ctaSecondaryText="Buscar por vehículo"
+        bgImageSrc="/hero/garage-bg.jpg"
+      />
+
+      <CategoryBubbles />
+
+      {/* DESTACADOS */}
       <section>
         <h2 className="text-xl font-semibold mb-3">Destacados</h2>
-        <ProductGrid items={destacados}/>
+        <ProductGrid items={destacados} />
       </section>
     </div>
   );

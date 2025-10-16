@@ -1,0 +1,1758 @@
+[
+  {
+    "codigo": "82215202AD",
+    "nombre": "Kit piso goma JL 2 puertas",
+    "ubicacion": "A1",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2018-2019",
+    "compat_list": [
+      "Jeep Wrangler 2018-2019"
+    ],
+    "precio_usd": 171.0
+  },
+  {
+    "codigo": "82215203AE",
+    "nombre": "Kit piso goma JL 4 puertas",
+    "ubicacion": "A1",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2018-2021",
+    "compat_list": [
+      "Jeep Wrangler 2018-2021"
+    ],
+    "precio_usd": 171.0
+  },
+  {
+    "codigo": "68268738AA",
+    "nombre": "Panel Interior puerta derecha",
+    "ubicacion": "A1",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Renegade 2015-2023",
+    "compat_list": [
+      "Jeep Renegade 2015-2023"
+    ],
+    "precio_usd": 542.33
+  },
+  {
+    "codigo": "68357670AA",
+    "nombre": "Goma contorno techo",
+    "ubicacion": "A1",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Wagoneer 2022-2024 Jeep Grand Wagoneer L 2023-2024 Jeep Wagoneer 2022-2024 Jeep Wagoneer L 2023-2024 Ram 1500 2019-2024",
+    "compat_list": [
+      "Jeep Grand Wagoneer 2022-2024 Jeep Grand Wagoneer L 2023-2024 Jeep Wagoneer 2022-2024 Jeep Wagoneer L 2023-2024 Ram 1500 2019-2024"
+    ],
+    "precio_usd": 64.98
+  },
+  {
+    "codigo": "55157458AB",
+    "nombre": "Máscara parrilla cromada",
+    "ubicacion": "A1",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2008-2010",
+    "compat_list": [
+      "Jeep Grand Cherokee 2008-2010"
+    ],
+    "precio_usd": 422.94
+  },
+  {
+    "codigo": "1BG84SZ0AE",
+    "nombre": "Parachoques Ram",
+    "ubicacion": "A1",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Journey 2010",
+    "compat_list": [
+      "Dodge Journey 2010"
+    ],
+    "precio_usd": 417.24
+  },
+  {
+    "codigo": "68303626AC",
+    "nombre": "Máscara Radiador",
+    "ubicacion": "A2",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Cherokee 2014-2018",
+    "compat_list": [
+      "Jeep Cherokee 2014-2018"
+    ],
+    "precio_usd": 369.36
+  },
+  {
+    "codigo": "1QG08DX9AA",
+    "nombre": "Tapa Tray-Cargo plástico",
+    "ubicacion": "A2",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2011-2018",
+    "compat_list": [
+      "Jeep Wrangler 2011-2018"
+    ],
+    "precio_usd": 34.46
+  },
+  {
+    "codigo": "68014948AA",
+    "nombre": "Cremallera vidrio",
+    "ubicacion": "A2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2007-2018",
+    "compat_list": [
+      "Jeep Wrangler 2007-2018"
+    ],
+    "precio_usd": 83.44
+  },
+  {
+    "codigo": "68258700AD",
+    "nombre": "Tablero Cierre capot",
+    "ubicacion": "A3",
+    "tipo": "bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Compass 2018-2023",
+    "compat_list": [
+      "Jeep Compass 2018-2023"
+    ],
+    "precio_usd": 61.76
+  },
+  {
+    "codigo": "68202821AA",
+    "nombre": "Tapa Caja Fusible",
+    "ubicacion": "A3",
+    "tipo": "bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2014-2023 Jeep Grand Cherokee 2014-2021 Jeep Grand Cherokee WK 2022 Ram 1500 2013-2020 Ram 1500 Classic 2021-2023 Ram 2500 2013-2023 Ram 3500 2013-2023 Ram 4500 2013-2020 Ram 5500 2013-2020",
+    "compat_list": [
+      "Dodge Durango 2014-2023 Jeep Grand Cherokee 2014-2021 Jeep Grand Cherokee WK 2022 Ram 1500 2013-2020 Ram 1500 Classic 2021-2023 Ram 2500 2013-2023 Ram 3500 2013-2023 Ram 4500 2013-2020 Ram 5500 2013-2020"
+    ],
+    "precio_usd": 21.33
+  },
+  {
+    "codigo": "1UU89RXFAC",
+    "nombre": "Moldura pasa rueda trasera izquierda",
+    "ubicacion": "A3",
+    "tipo": "bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Cherokee 2014-2018",
+    "compat_list": [
+      "Jeep Cherokee 2014-2018"
+    ],
+    "precio_usd": 28.88
+  },
+  {
+    "codigo": "68157472AA",
+    "nombre": "Bisel parachoques",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2012-2021",
+    "compat_list": [
+      "Jeep Grand Cherokee 2012-2021"
+    ],
+    "precio_usd": 223.34
+  },
+  {
+    "codigo": "68229384AA",
+    "nombre": "Tubo inyeccion",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2011-2021 Ram 1500 2014-2019",
+    "compat_list": [
+      "Jeep Grand Cherokee 2011-2021 Ram 1500 2014-2019"
+    ],
+    "precio_usd": 101.04
+  },
+  {
+    "codigo": "55113777AC",
+    "nombre": "Amortiguador de capó",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2011-2023 Dodge Charger 2011-2023",
+    "compat_list": [
+      "Chrysler 300 2011-2023 Dodge Charger 2011-2023"
+    ],
+    "precio_usd": 21.22
+  },
+  {
+    "codigo": "04893804AB",
+    "nombre": "Empaquetadura motor",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Pacifica 2017-2024 Chrysler Voyager 2020-2024 Dodge Durango 2016-2023 Jeep Gladiator 2020-2023 Jeep Grand Cherokee 2016-2024 Jeep Grand Cherokee L 2021-2024 Jeep Grand Cherokee WK 2022 Jeep Wrangler 2018-2024 Ram 1500 2019-2024 Ram ProMaster 1500 2022-2023 Ram ProMaster 2500 2022-2023 Ram ProMaster 3500 2022-2023",
+    "compat_list": [
+      "Chrysler Pacifica 2017-2024 Chrysler Voyager 2020-2024 Dodge Durango 2016-2023 Jeep Gladiator 2020-2023 Jeep Grand Cherokee 2016-2024 Jeep Grand Cherokee L 2021-2024 Jeep Grand Cherokee WK 2022 Jeep Wrangler 2018-2024 Ram 1500 2019-2024 Ram ProMaster 1500 2022-2023 Ram ProMaster 2500 2022-2023 Ram ProMaster 3500 2022-2023"
+    ],
+    "precio_usd": 13.34
+  },
+  {
+    "codigo": "5UQ01RXFAB",
+    "nombre": "Bisel Neblinero Delantero Izquierdo",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Compass 2018-2021",
+    "compat_list": [
+      "Jeep Compass 2018-2021"
+    ],
+    "precio_usd": 10.95
+  },
+  {
+    "codigo": "52014440AA",
+    "nombre": "Extension manilla de gata",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Nitro 2007-2011 Dodge Ram 1500 2006-2010 Jeep Gladiator 2020-2022 Jeep Liberty 2006-2012 Ram 1500 2011-2024 Ram 1500 Classic 2021",
+    "compat_list": [
+      "Dodge Nitro 2007-2011 Dodge Ram 1500 2006-2010 Jeep Gladiator 2020-2022 Jeep Liberty 2006-2012 Ram 1500 2011-2024 Ram 1500 Classic 2021"
+    ],
+    "precio_usd": 32.74
+  },
+  {
+    "codigo": "5278767AB",
+    "nombre": "Tapa radiador",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2012-2023 Chrysler Aspen 2007-2009 Dodge Challenger 2011-2023 Dodge Charger 2013-2023 Dodge Dakota 2001-2004 Dodge Durango 2002-2009 Jeep Grand Cherokee 2013-2015 Jeep Liberty 2008-2012",
+    "compat_list": [
+      "Chrysler 300 2012-2023 Chrysler Aspen 2007-2009 Dodge Challenger 2011-2023 Dodge Charger 2013-2023 Dodge Dakota 2001-2004 Dodge Durango 2002-2009 Jeep Grand Cherokee 2013-2015 Jeep Liberty 2008-2012"
+    ],
+    "precio_usd": 15.48
+  },
+  {
+    "codigo": "68024342AD",
+    "nombre": "Soporte placa protector derecho",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Challenger 2008-2020",
+    "compat_list": [
+      "Dodge Challenger 2008-2020"
+    ],
+    "precio_usd": 26.95
+  },
+  {
+    "codigo": "68297851AA",
+    "nombre": "Kit empaquetadura distribucion",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Pacifica 2017-2020 Chrysler Voyager 2020 Dodge Durango 2016-2021 Jeep Gladiator 2020-2021 Jeep Grand Cherokee 2016-2021 Jeep Wrangler 2018-2021 Ram 1500 2019-2021",
+    "compat_list": [
+      "Chrysler Pacifica 2017-2020 Chrysler Voyager 2020 Dodge Durango 2016-2021 Jeep Gladiator 2020-2021 Jeep Grand Cherokee 2016-2021 Jeep Wrangler 2018-2021 Ram 1500 2019-2021"
+    ],
+    "precio_usd": 52.32
+  },
+  {
+    "codigo": "68082969AB",
+    "nombre": "Soporte parachoque",
+    "ubicacion": "A3",
+    "tipo": "Suelto",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Compass 2011-2017 Jeep Patriot 2011-2017",
+    "compat_list": [
+      "Jeep Compass 2011-2017 Jeep Patriot 2011-2017"
+    ],
+    "precio_usd": 18.73
+  },
+  {
+    "codigo": "68298822AC",
+    "nombre": "Tapa parachoque trasero derecho",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2018-2024",
+    "compat_list": [
+      "Jeep Wrangler 2018-2024"
+    ],
+    "precio_usd": 16.63
+  },
+  {
+    "codigo": "55372279AE",
+    "nombre": "Moldura aplique pilar",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2015-2017 Ram 2500 2015-2017 Ram 3500 2015-2017 Ram 4500 2015-2017 Ram 5500 2015-2017",
+    "compat_list": [
+      "Ram 1500 2015-2017 Ram 2500 2015-2017 Ram 3500 2015-2017 Ram 4500 2015-2017 Ram 5500 2015-2017"
+    ],
+    "precio_usd": 9.04
+  },
+  {
+    "codigo": "68003777AA",
+    "nombre": "Juego pasador caliper freno",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Town & Country 2008-2016 Dodge Grand Caravan 2008-2016 Dodge Journey 2009-2013 Dodge Nitro 2007-2011 Jeep Liberty 2008-2012 Jeep Wrangler 2007-2018 Ram C/V 2012-2015",
+    "compat_list": [
+      "Chrysler Town & Country 2008-2016 Dodge Grand Caravan 2008-2016 Dodge Journey 2009-2013 Dodge Nitro 2007-2011 Jeep Liberty 2008-2012 Jeep Wrangler 2007-2018 Ram C",
+      "V 2012-2015"
+    ],
+    "precio_usd": 24.86
+  },
+  {
+    "codigo": "68213539AC",
+    "nombre": "Soporte parachoque delantero derecho",
+    "ubicacion": "A3",
+    "tipo": "Suelto",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Charger 2015-2023",
+    "compat_list": [
+      "Dodge Charger 2015-2023"
+    ],
+    "precio_usd": 7.89
+  },
+  {
+    "codigo": "68163977AB",
+    "nombre": "Bisel neblinero izquierdo",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Dart 2012-2016",
+    "compat_list": [
+      "Dodge Dart 2012-2016"
+    ],
+    "precio_usd": 83.76
+  },
+  {
+    "codigo": "68140033AA",
+    "nombre": "Bisagra luneta trasera",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2011-2018",
+    "compat_list": [
+      "Jeep Wrangler 2011-2018"
+    ],
+    "precio_usd": 14.55
+  },
+  {
+    "codigo": "5ZM55SZ0AA",
+    "nombre": "Bisel neblinero",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2017-2021 Jeep Grand Cherokee WK 2022",
+    "compat_list": [
+      "Jeep Grand Cherokee 2017-2021 Jeep Grand Cherokee WK 2022"
+    ],
+    "precio_usd": 25.99
+  },
+  {
+    "codigo": "68214328AA",
+    "nombre": "Soporte parachoque",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2014-2021",
+    "compat_list": [
+      "Jeep Grand Cherokee 2014-2021"
+    ],
+    "precio_usd": 46.03
+  },
+  {
+    "codigo": "68066350AG",
+    "nombre": "Llave de reemplazo",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2014-2023 Dodge Journey 2011-2020",
+    "compat_list": [
+      "Dodge Durango 2014-2023 Dodge Journey 2011-2020"
+    ],
+    "precio_usd": 120.02
+  },
+  {
+    "codigo": "68224790AA",
+    "nombre": "Inyector de combustible",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2014-2021 Ram 1500 2014-2019",
+    "compat_list": [
+      "Jeep Grand Cherokee 2014-2021 Ram 1500 2014-2019"
+    ],
+    "precio_usd": 8.43
+  },
+  {
+    "codigo": "6036734AA",
+    "nombre": "Perno",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Aspen 2009 Dodge Dakota 2009-2011 Dodge Ram 1500 2009-2010 Dodge Ram 2500 2009-2010 Dodge Ram 3500 2009 Jeep Grand Cherokee 2011-2024 Jeep Grand Cherokee L 2021-2023 Jeep Wagoneer 2022-2024 Ram 1500 2011-2024 Ram 1500 Classic 2021-2023 Ram 2500 2011-2023 Ram 3500 2011-2023 Ram 4500 2014-2020 Ram 5500 2014-2020 Ram Dakota 2011",
+    "compat_list": [
+      "Chrysler Aspen 2009 Dodge Dakota 2009-2011 Dodge Ram 1500 2009-2010 Dodge Ram 2500 2009-2010 Dodge Ram 3500 2009 Jeep Grand Cherokee 2011-2024 Jeep Grand Cherokee L 2021-2023 Jeep Wagoneer 2022-2024 Ram 1500 2011-2024 Ram 1500 Classic 2021-2023 Ram 2500 2011-2023 Ram 3500 2011-2023 Ram 4500 2014-2020 Ram 5500 2014-2020 Ram Dakota 2011"
+    ],
+    "precio_usd": 15.62
+  },
+  {
+    "codigo": "05281239AA",
+    "nombre": "inyector de gasolina",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2016-2017 Jeep Grand Cherokee 2016-2017",
+    "compat_list": [
+      "Dodge Durango 2016-2017 Jeep Grand Cherokee 2016-2017"
+    ],
+    "precio_usd": 139.7
+  },
+  {
+    "codigo": "55372277AE",
+    "nombre": "Aplique trasero izquierdo",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2015-2017 Ram 2500 2015-2017 Ram 3500 2015-2017 Ram 4500 2015-2017 Ram 5500 2015-2017",
+    "compat_list": [
+      "Ram 1500 2015-2017 Ram 2500 2015-2017 Ram 3500 2015-2017 Ram 4500 2015-2017 Ram 5500 2015-2017"
+    ],
+    "precio_usd": 39.3
+  },
+  {
+    "codigo": "6507915AA",
+    "nombre": "Perno de rueda",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Challenger 2008-2023 Dodge Charger 2006-2023 Dodge Magnum 2005-2008",
+    "compat_list": [
+      "Dodge Challenger 2008-2023 Dodge Charger 2006-2023 Dodge Magnum 2005-2008"
+    ],
+    "precio_usd": 21.5
+  },
+  {
+    "codigo": "68266186AA",
+    "nombre": "Soporte parachoques trasero",
+    "ubicacion": "A3",
+    "tipo": "Suelto",
+    "marca": "Mopar",
+    "compatibilidades": "Ram ProMaster City 2015-2022",
+    "compat_list": [
+      "Ram ProMaster City 2015-2022"
+    ],
+    "precio_usd": 12.65
+  },
+  {
+    "codigo": "5086686AA",
+    "nombre": "Junta de eje trasero",
+    "ubicacion": "A3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Ram 2500 2003-2010 Dodge Ram 3500 2003-2010 Ram 2500 2011-2020 Ram 3500 2011-2020",
+    "compat_list": [
+      "Dodge Ram 2500 2003-2010 Dodge Ram 3500 2003-2010 Ram 2500 2011-2020 Ram 3500 2011-2020"
+    ],
+    "precio_usd": 39.78
+  },
+  {
+    "codigo": "05113731AB",
+    "nombre": "bisel parachoque durango",
+    "ubicacion": "A4",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2014-2023",
+    "compat_list": [
+      "Dodge Durango 2014-2023"
+    ],
+    "precio_usd": 51.18
+  },
+  {
+    "codigo": "82215488AB",
+    "nombre": "Salpicadora",
+    "ubicacion": "A4",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2019",
+    "compat_list": [
+      "Ram 1500 2019"
+    ],
+    "precio_usd": 62.07
+  },
+  {
+    "codigo": "1GH261X8AG",
+    "nombre": "Manilla ext puerta trasera derecha",
+    "ubicacion": "A4",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2012-2015 Ram 2500 2012-2015 Ram 3500 2012-2015 Ram 4500 2013-2015 Ram 5500 2013-2015",
+    "compat_list": [
+      "Ram 1500 2012-2015 Ram 2500 2012-2015 Ram 3500 2012-2015 Ram 4500 2013-2015 Ram 5500 2013-2015"
+    ],
+    "precio_usd": 135.28
+  },
+  {
+    "codigo": "5VK87DX9AD",
+    "nombre": "Moldura izquierda pilar",
+    "ubicacion": "A4",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2020-2021 Jeep Grand Cherokee 2020-2021",
+    "compat_list": [
+      "Dodge Durango 2020-2021 Jeep Grand Cherokee 2020-2021"
+    ],
+    "precio_usd": 56.42
+  },
+  {
+    "codigo": "1TD45TZZAG",
+    "nombre": "Moldura paso rueda trasera izquierda",
+    "ubicacion": "A4",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2011-2020 Ram 1500 Classic 2021-2023 Ram 2500 2011-2018 Ram 3500 2011-2018",
+    "compat_list": [
+      "Ram 1500 2011-2020 Ram 1500 Classic 2021-2023 Ram 2500 2011-2018 Ram 3500 2011-2018"
+    ],
+    "precio_usd": 251.46
+  },
+  {
+    "codigo": "1TD45TZZAF",
+    "nombre": "Moldura paso rueda",
+    "ubicacion": "A4",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2018-2020 Ram 2500 2018 Ram 3500 2018",
+    "compat_list": [
+      "Ram 1500 2018-2020 Ram 2500 2018 Ram 3500 2018"
+    ],
+    "precio_usd": 253.8
+  },
+  {
+    "codigo": "68109868AA",
+    "nombre": "Spoiler delantero",
+    "ubicacion": "A4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Compass 2011-2017",
+    "compat_list": [
+      "Jeep Compass 2011-2017"
+    ],
+    "precio_usd": 46.88
+  },
+  {
+    "codigo": "5VP15HL1AB",
+    "nombre": "Moldura pilar",
+    "ubicacion": "A5",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2016-2017",
+    "compat_list": [
+      "Jeep Grand Cherokee 2016-2017"
+    ],
+    "precio_usd": 65.82
+  },
+  {
+    "codigo": "68402079AC",
+    "nombre": "Tapa portalon",
+    "ubicacion": "A5",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2019-2024",
+    "compat_list": [
+      "Ram 1500 2019-2024"
+    ],
+    "precio_usd": 73.04
+  },
+  {
+    "codigo": "5KF16RXFAE",
+    "nombre": "Moldura paso rueda derecha",
+    "ubicacion": "A5",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2010-2018",
+    "compat_list": [
+      "Jeep Wrangler 2010-2018"
+    ],
+    "precio_usd": 217.56
+  },
+  {
+    "codigo": "5KC87TZZAI",
+    "nombre": "Moldura Tapabarro izquierdo",
+    "ubicacion": "A5",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2018",
+    "compat_list": [
+      "Jeep Wrangler 2018"
+    ],
+    "precio_usd": 196.47
+  },
+  {
+    "codigo": "4878883AA",
+    "nombre": "Broche",
+    "ubicacion": "K1",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 200 2015-2017 Chrysler 300 2005-2023 Chrysler PT Cruiser 2001-2010 Chrysler Pacifica 2017 Chrysler Sebring 2001-2008 Dodge Avenger 2007-2008 Dodge Caliber 2007-2012 Dodge Challenger 2008-2020 Dodge Charger 2006-2023 Dodge Dart 2012-2016 Dodge Durango 2011-2023 Dodge Journey 2009-2020 Dodge Magnum 2005-2008 Dodge Neon 2005 Dodge Ram 1500 2009-2010 Dodge Ram 2500 2010 Dodge Ram 3500 2010 Dodge Stratus 2001-2006 Jeep Cherokee 2014-2023 Jeep Compass 2008-2023 Jeep Grand Cherokee 2011-2021 Jeep Grand Cherokee WK 2022 Jeep Patriot 2008-2017 Ram 1500 2011-2024 Ram 1500 Classic 2021 Ram 2500 2011-2023 Ram 3500 2011-2023 Ram 4500 2019-2020 Ram 5500 2019-2020",
+    "compat_list": [
+      "Chrysler 200 2015-2017 Chrysler 300 2005-2023 Chrysler PT Cruiser 2001-2010 Chrysler Pacifica 2017 Chrysler Sebring 2001-2008 Dodge Avenger 2007-2008 Dodge Caliber 2007-2012 Dodge Challenger 2008-2020 Dodge Charger 2006-2023 Dodge Dart 2012-2016 Dodge Durango 2011-2023 Dodge Journey 2009-2020 Dodge Magnum 2005-2008 Dodge Neon 2005 Dodge Ram 1500 2009-2010 Dodge Ram 2500 2010 Dodge Ram 3500 2010 Dodge Stratus 2001-2006 Jeep Cherokee 2014-2023 Jeep Compass 2008-2023 Jeep Grand Cherokee 2011-2021 Jeep Grand Cherokee WK 2022 Jeep Patriot 2008-2017 Ram 1500 2011-2024 Ram 1500 Classic 2021 Ram 2500 2011-2023 Ram 3500 2011-2023 Ram 4500 2019-2020 Ram 5500 2019-2020"
+    ],
+    "precio_usd": 4.77
+  },
+  {
+    "codigo": "68225074AA",
+    "nombre": "Arandela",
+    "ubicacion": "K1",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Cherokee 2014-2018 Jeep Grand Cherokee 2011-2021 Jeep Grand Cherokee WK 2022",
+    "compat_list": [
+      "Jeep Cherokee 2014-2018 Jeep Grand Cherokee 2011-2021 Jeep Grand Cherokee WK 2022"
+    ],
+    "precio_usd": 4.26
+  },
+  {
+    "codigo": "5KC86TZZAK",
+    "nombre": "moldura paso rueda",
+    "ubicacion": "M1",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2007-2018",
+    "compat_list": [
+      "Jeep Wrangler 2007-2018"
+    ],
+    "precio_usd": 297.5
+  },
+  {
+    "codigo": "68081378AA",
+    "nombre": "spoiler cubierta parachoque",
+    "ubicacion": "M1",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Dart 2012-2016",
+    "compat_list": [
+      "Dodge Dart 2012-2016"
+    ],
+    "precio_usd": 73.78
+  },
+  {
+    "codigo": "5KF08RXFAH",
+    "nombre": "Moldura paso rueda",
+    "ubicacion": "M1",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2018",
+    "compat_list": [
+      "Jeep Wrangler 2018"
+    ],
+    "precio_usd": 131.92
+  },
+  {
+    "codigo": "5KC84TZZAG",
+    "nombre": "Moldura paso rueda",
+    "ubicacion": "M1",
+    "tipo": "caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2017-2018",
+    "compat_list": [
+      "Jeep Wrangler 2017-2018"
+    ],
+    "precio_usd": 279.74
+  },
+  {
+    "codigo": "68214815AA",
+    "nombre": "Protector inferior",
+    "ubicacion": "M1",
+    "tipo": "suelto",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Challenger 2018-2022 Dodge Charger 2015-2023",
+    "compat_list": [
+      "Dodge Challenger 2018-2022 Dodge Charger 2015-2023"
+    ],
+    "precio_usd": 78.42
+  },
+  {
+    "codigo": "6BR201XRAC",
+    "nombre": "Kit Tapabarro",
+    "ubicacion": "M1",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2020-2021",
+    "compat_list": [
+      "Ram 1500 2020-2021"
+    ],
+    "precio_usd": 169.2
+  },
+  {
+    "codigo": "68160857AA",
+    "nombre": "Parachoques delantero",
+    "ubicacion": "M3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2014-2020 Ram 1500 Classic 2021",
+    "compat_list": [
+      "Ram 1500 2014-2020 Ram 1500 Classic 2021"
+    ],
+    "precio_usd": 828.04
+  },
+  {
+    "codigo": "55359555AB",
+    "nombre": "Vidrio puerta trasera izquierda",
+    "ubicacion": "F1",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Dakota 2008",
+    "compat_list": [
+      "Dodge Dakota 2008"
+    ],
+    "precio_usd": 89.62
+  },
+  {
+    "codigo": "55113552AB",
+    "nombre": "Vidrio puerta trasera derecha",
+    "ubicacion": "F1",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Charger 2011-2019",
+    "compat_list": [
+      "Dodge Charger 2011-2019"
+    ],
+    "precio_usd": 88.38
+  },
+  {
+    "codigo": "05074224AC",
+    "nombre": "Vidrio puerta trasera derecha",
+    "ubicacion": "F1",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Compass 2007-2017",
+    "compat_list": [
+      "Jeep Compass 2007-2017"
+    ],
+    "precio_usd": 159.05
+  },
+  {
+    "codigo": "68230048AD",
+    "nombre": "Parabrisas trasero",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Charger 2015-2023",
+    "compat_list": [
+      "Dodge Charger 2015-2023"
+    ],
+    "precio_usd": 550.62
+  },
+  {
+    "codigo": "68211614AA",
+    "nombre": "Parabrisas trasero",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2014-2020",
+    "compat_list": [
+      "Jeep Grand Cherokee 2014-2020"
+    ],
+    "precio_usd": 571.14
+  },
+  {
+    "codigo": "1LD58DX8AK",
+    "nombre": "Espejo Derecho",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Charger 2018-2019",
+    "compat_list": [
+      "Dodge Charger 2018-2019"
+    ],
+    "precio_usd": 212.42
+  },
+  {
+    "codigo": "55077493AN",
+    "nombre": "Espejo derecho",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Ram 1500 2003-2008 Dodge Ram 2500 2003-2009 Dodge Ram 3500 2003-2010 Dodge Ram 4500 2008-2010 Dodge Ram 5500 2008-2010",
+    "compat_list": [
+      "Dodge Ram 1500 2003-2008 Dodge Ram 2500 2003-2009 Dodge Ram 3500 2003-2010 Dodge Ram 4500 2008-2010 Dodge Ram 5500 2008-2010"
+    ],
+    "precio_usd": 371.8
+  },
+  {
+    "codigo": "68096199AF",
+    "nombre": "Espejo izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2013",
+    "compat_list": [
+      "Ram 1500 2013"
+    ],
+    "precio_usd": 834.9
+  },
+  {
+    "codigo": "68302119AB",
+    "nombre": "Foco intermitente izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Gladiator 2020-2023 Jeep Wrangler 2018-2024",
+    "compat_list": [
+      "Jeep Gladiator 2020-2023 Jeep Wrangler 2018-2024"
+    ],
+    "precio_usd": 52.79
+  },
+  {
+    "codigo": "68302120AB",
+    "nombre": "Foco intermitente izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Gladiator 2020-2023 Jeep Wrangler 2018-2024",
+    "compat_list": [
+      "Jeep Gladiator 2020-2023 Jeep Wrangler 2018-2024"
+    ],
+    "precio_usd": 52.79
+  },
+  {
+    "codigo": "68460760AA",
+    "nombre": "Luneta derecha",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2020-2024 Ram 1500 Classic 2021-2023 Ram 2500 2019-2022 Ram 3500 2018-2020 Ram 4500 2019-2020 Ram 5500 2019-2020",
+    "compat_list": [
+      "Ram 1500 2020-2024 Ram 1500 Classic 2021-2023 Ram 2500 2019-2022 Ram 3500 2018-2020 Ram 4500 2019-2020 Ram 5500 2019-2020"
+    ],
+    "precio_usd": 33.6
+  },
+  {
+    "codigo": "68067727AA",
+    "nombre": "Luneta izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Ram 1500 2010 Dodge Ram 2500 2010 Dodge Ram 3500 2010 Ram 1500 2011-2015 Ram 1500 Classic 2021 Ram 2500 2011-2015 Ram 3500 2011-2015 Ram 4500 2011-2015 Ram 5500 2011-2015",
+    "compat_list": [
+      "Dodge Ram 1500 2010 Dodge Ram 2500 2010 Dodge Ram 3500 2010 Ram 1500 2011-2015 Ram 1500 Classic 2021 Ram 2500 2011-2015 Ram 3500 2011-2015 Ram 4500 2011-2015 Ram 5500 2011-2015"
+    ],
+    "precio_usd": 30.95
+  },
+  {
+    "codigo": "68058797AA",
+    "nombre": "Luneta izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Compass 2010-2017",
+    "compat_list": [
+      "Jeep Compass 2010-2017"
+    ],
+    "precio_usd": 19.74
+  },
+  {
+    "codigo": "68395126AA",
+    "nombre": "Luz capot",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2006-2010 Chrysler 300M 2002-2004 Chrysler Concorde 2002-2004 Dodge Dakota 1998-2000 Dodge Durango 1998-2001 Dodge Intrepid 2002-2004 Dodge Magnum 2006-2008 Dodge Neon 1998-2001 Dodge Ram 1500 1998-2010 Dodge Ram 2500 1998-2010 Dodge Ram 3500 1998-2010 Dodge Ram 4500 2008-2009 Dodge Ram 5500 2008-2009 Dodge Ram Van 1998-2003 Dodge Ram Wagon 1998-2002 Jeep Cherokee 1998-2001 Jeep Grand Cherokee 1998-2001 Jeep Wrangler 1998-2007 Ram 1500 2011-2017 Ram 1500 Classic 2021 Ram 2500 2011-2017 Ram 3500 2011-2017",
+    "compat_list": [
+      "Chrysler 300 2006-2010 Chrysler 300M 2002-2004 Chrysler Concorde 2002-2004 Dodge Dakota 1998-2000 Dodge Durango 1998-2001 Dodge Intrepid 2002-2004 Dodge Magnum 2006-2008 Dodge Neon 1998-2001 Dodge Ram 1500 1998-2010 Dodge Ram 2500 1998-2010 Dodge Ram 3500 1998-2010 Dodge Ram 4500 2008-2009 Dodge Ram 5500 2008-2009 Dodge Ram Van 1998-2003 Dodge Ram Wagon 1998-2002 Jeep Cherokee 1998-2001 Jeep Grand Cherokee 1998-2001 Jeep Wrangler 1998-2007 Ram 1500 2011-2017 Ram 1500 Classic 2021 Ram 2500 2011-2017 Ram 3500 2011-2017"
+    ],
+    "precio_usd": 22.59
+  },
+  {
+    "codigo": "68289100AA",
+    "nombre": "Luz intermitente derecha espejo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram ProMaster City 2015-2020",
+    "compat_list": [
+      "Ram ProMaster City 2015-2020"
+    ],
+    "precio_usd": 62.22
+  },
+  {
+    "codigo": "55077885AD",
+    "nombre": "Luz intermitente izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2007-2013",
+    "compat_list": [
+      "Jeep Wrangler 2007-2013"
+    ],
+    "precio_usd": 56.73
+  },
+  {
+    "codigo": "55277410AG",
+    "nombre": "Optico delantero",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Ram 1500 2009-2010 Dodge Ram 2500 2010 Dodge Ram 3500 2010 Ram 1500 2011-2012 Ram 2500 2011-2012 Ram 3500 2011-2012 Ram 4500 2011-2012 Ram 5500 2011-2012",
+    "compat_list": [
+      "Dodge Ram 1500 2009-2010 Dodge Ram 2500 2010 Dodge Ram 3500 2010 Ram 1500 2011-2012 Ram 2500 2011-2012 Ram 3500 2011-2012 Ram 4500 2011-2012 Ram 5500 2011-2012"
+    ],
+    "precio_usd": 215.7
+  },
+  {
+    "codigo": "68324941AD",
+    "nombre": "Optico delantero izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2016-2019 Ram 1500 Classic 2021 Ram 2500 2016-2018 Ram 3500 2016-2018 Ram 4500 2016-2018 Ram 5500 2016-2018",
+    "compat_list": [
+      "Ram 1500 2016-2019 Ram 1500 Classic 2021 Ram 2500 2016-2018 Ram 3500 2016-2018 Ram 4500 2016-2018 Ram 5500 2016-2018"
+    ],
+    "precio_usd": 536.12
+  },
+  {
+    "codigo": "68214397AD",
+    "nombre": "Optico delantero izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Charger 2015-2016",
+    "compat_list": [
+      "Dodge Charger 2015-2016"
+    ],
+    "precio_usd": 500
+  },
+  {
+    "codigo": "55078151AD",
+    "nombre": "Optico delantero izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2011",
+    "compat_list": [
+      "Jeep Wrangler 2011"
+    ],
+    "precio_usd": 164.69
+  },
+  {
+    "codigo": "55079013AC",
+    "nombre": "Optico trasero izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2009-2010",
+    "compat_list": [
+      "Jeep Grand Cherokee 2009-2010"
+    ],
+    "precio_usd": 168.07
+  },
+  {
+    "codigo": "5272909AB",
+    "nombre": "Optico trasero izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Compass 2014-2017",
+    "compat_list": [
+      "Jeep Compass 2014-2017"
+    ],
+    "precio_usd": 314.6
+  },
+  {
+    "codigo": "68272127AB",
+    "nombre": "Optico trasero izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2014-2021",
+    "compat_list": [
+      "Dodge Durango 2014-2021"
+    ],
+    "precio_usd": 430.92
+  },
+  {
+    "codigo": "57010272AH",
+    "nombre": "Optico trasreo derecho",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2011-2013",
+    "compat_list": [
+      "Dodge Durango 2011-2013"
+    ],
+    "precio_usd": 106.68
+  },
+  {
+    "codigo": "68241333AA",
+    "nombre": "Optico trasreo izquierdo",
+    "ubicacion": "F3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Town & Country 2002-2003 Chrysler Voyager 2002-2003 Dodge Caravan 2002-2003 Dodge Grand Caravan 2002-2003",
+    "compat_list": [
+      "Chrysler Town & Country 2002-2003 Chrysler Voyager 2002-2003 Dodge Caravan 2002-2003 Dodge Grand Caravan 2002-2003"
+    ],
+    "precio_usd": 220.0
+  },
+  {
+    "codigo": "05057792AH",
+    "nombre": "Airbag",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2011-2023 Dodge Charger 2011-2023",
+    "compat_list": [
+      "Chrysler 300 2011-2023 Dodge Charger 2011-2023"
+    ],
+    "precio_usd": 225.6
+  },
+  {
+    "codigo": "68195937AA",
+    "nombre": "Airbag copiloto",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2014-2020",
+    "compat_list": [
+      "Dodge Durango 2014-2020"
+    ],
+    "precio_usd": 915.42
+  },
+  {
+    "codigo": "68282914AD",
+    "nombre": "Airbag pasajero",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2016-2023 Dodge Charger 2016-2023",
+    "compat_list": [
+      "Chrysler 300 2016-2023 Dodge Charger 2016-2023"
+    ],
+    "precio_usd": 646.38
+  },
+  {
+    "codigo": "68080831AA",
+    "nombre": "Anillo inyector",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 200 2011-2017 Chrysler 300 2011-2023 Chrysler Pacifica 2017-2022 Chrysler Town & Country 2011-2016 Chrysler Voyager 2020-2022 Dodge Avenger 2011-2014 Dodge Challenger 2011-2022 Dodge Charger 2011-2022 Dodge Grand Caravan 2011-2020 Dodge Journey 2011-2019 Jeep Cherokee 2014-2017 Jeep Gladiator 2020-2023 Jeep Grand Cherokee 2011-2023 Jeep Grand Cherokee L 2021-2023 Jeep Grand Wagoneer 2022-2023 Jeep Wrangler 2012-2023 Ram 1500 2013-2020 Ram 1500 Classic 2021-2023 Ram 2500 2014-2023 Ram 3500 2014-2023 Ram 4500 2014-2020 Ram 5500 2014-2020 Ram C/V 2012-2015 Ram ProMaster 1500 2014-2022 Ram ProMaster 3500 2014-2023",
+    "compat_list": [
+      "Chrysler 200 2011-2017 Chrysler 300 2011-2023 Chrysler Pacifica 2017-2022 Chrysler Town & Country 2011-2016 Chrysler Voyager 2020-2022 Dodge Avenger 2011-2014 Dodge Challenger 2011-2022 Dodge Charger 2011-2022 Dodge Grand Caravan 2011-2020 Dodge Journey 2011-2019 Jeep Cherokee 2014-2017 Jeep Gladiator 2020-2023 Jeep Grand Cherokee 2011-2023 Jeep Grand Cherokee L 2021-2023 Jeep Grand Wagoneer 2022-2023 Jeep Wrangler 2012-2023 Ram 1500 2013-2020 Ram 1500 Classic 2021-2023 Ram 2500 2014-2023 Ram 3500 2014-2023 Ram 4500 2014-2020 Ram 5500 2014-2020 Ram C",
+      "V 2012-2015 Ram ProMaster 1500 2014-2022 Ram ProMaster 3500 2014-2023"
+    ],
+    "precio_usd": 23.39
+  },
+  {
+    "codigo": "05013470AE",
+    "nombre": "Bandeja filtro trnasmision",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Aspen 2007-2009 Dodge Dakota 2000-2011 Dodge Ram 1500 2002-2010 Dodge Ram 2500 2003-2010 Dodge Ram 3500 2003-2010 Jeep Commander 2006-2009 Jeep Liberty 2002-2007 Jeep Wrangler 2007-2009 Ram 1500 2011-2020 Ram 1500 Classic 2021 Ram 2500 2011-2023 Ram 3500 2011-2023 Ram Dakota 2011",
+    "compat_list": [
+      "Chrysler Aspen 2007-2009 Dodge Dakota 2000-2011 Dodge Ram 1500 2002-2010 Dodge Ram 2500 2003-2010 Dodge Ram 3500 2003-2010 Jeep Commander 2006-2009 Jeep Liberty 2002-2007 Jeep Wrangler 2007-2009 Ram 1500 2011-2020 Ram 1500 Classic 2021 Ram 2500 2011-2023 Ram 3500 2011-2023 Ram Dakota 2011"
+    ],
+    "precio_usd": 52.81
+  },
+  {
+    "codigo": "4609103AC",
+    "nombre": "Bobina de encendido",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Cirrus 1997-2000 Chrysler Grand Voyager 2000 Chrysler PT Cruiser 2001-2010 Chrysler Sebring 1997-2006 Chrysler Town & Country 1997-2007 Chrysler Voyager 2000-2003 Dodge Avenger 1997-1999 Dodge Caravan 1997-2007 Dodge Grand Caravan 1997-2007 Dodge Neon 1997-2005 Dodge Stratus 1997-2006 Jeep Liberty 2002-2006 Jeep Wrangler 2003-2006",
+    "compat_list": [
+      "Chrysler Cirrus 1997-2000 Chrysler Grand Voyager 2000 Chrysler PT Cruiser 2001-2010 Chrysler Sebring 1997-2006 Chrysler Town & Country 1997-2007 Chrysler Voyager 2000-2003 Dodge Avenger 1997-1999 Dodge Caravan 1997-2007 Dodge Grand Caravan 1997-2007 Dodge Neon 1997-2005 Dodge Stratus 1997-2006 Jeep Liberty 2002-2006 Jeep Wrangler 2003-2006"
+    ],
+    "precio_usd": 144.5
+  },
+  {
+    "codigo": "68238002AC",
+    "nombre": "Bocina",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2019 Dodge Charger 2019",
+    "compat_list": [
+      "Chrysler 300 2019 Dodge Charger 2019"
+    ],
+    "precio_usd": 31.08
+  },
+  {
+    "codigo": "68306481AB",
+    "nombre": "Bocina Ram",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2014-2017 Ram 2500 2014-2017 Ram 3500 2014-2017 Ram 4500 2014-2017 Ram 5500 2014-2017",
+    "compat_list": [
+      "Ram 1500 2014-2017 Ram 2500 2014-2017 Ram 3500 2014-2017 Ram 4500 2014-2017 Ram 5500 2014-2017"
+    ],
+    "precio_usd": 58.37
+  },
+  {
+    "codigo": "05154282AA",
+    "nombre": "Buje de rueda trasera",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 2500 2012-2018 Ram 3500 2012-2018",
+    "compat_list": [
+      "Ram 2500 2012-2018 Ram 3500 2012-2018"
+    ],
+    "precio_usd": 297.0
+  },
+  {
+    "codigo": "5047637AC",
+    "nombre": "Cojinete biela cigueñal",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 200 2015-2017 Dodge Dart 2012-2016 Jeep Cherokee 2014-2022 Jeep Compass 2018-2022 Jeep Renegade 2015-2021 Ram ProMaster City 2015-2022",
+    "compat_list": [
+      "Chrysler 200 2015-2017 Dodge Dart 2012-2016 Jeep Cherokee 2014-2022 Jeep Compass 2018-2022 Jeep Renegade 2015-2021 Ram ProMaster City 2015-2022"
+    ],
+    "precio_usd": 4.39
+  },
+  {
+    "codigo": "55111610AC",
+    "nombre": "Compresor aire acondicionado",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Caliber 2009-2012 Jeep Compass 2008-2017 Jeep Patriot 2008-2017",
+    "compat_list": [
+      "Dodge Caliber 2009-2012 Jeep Compass 2008-2017 Jeep Patriot 2008-2017"
+    ],
+    "precio_usd": 682.96
+  },
+  {
+    "codigo": "05184347AH",
+    "nombre": "Conjunto biela piston",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 200 2011-2017 Chrysler 300 2011-2023 Chrysler Town & Country 2011-2016 Dodge Avenger 2011-2014 Dodge Challenger 2011-2022 Dodge Charger 2011-2022 Dodge Durango 2011-2015 Dodge Grand Caravan 2011-2020 Dodge Journey 2011-2019 Jeep Grand Cherokee 2011-2015 Jeep Wrangler 2012-2018 Ram 1500 2013-2020 Ram 1500 Classic 2021-2023 Ram C/V 2012-2015 Ram ProMaster 1500 2014-2021 Ram ProMaster 2500 2014-2021 Ram ProMaster 3500 2014-2021",
+    "compat_list": [
+      "Chrysler 200 2011-2017 Chrysler 300 2011-2023 Chrysler Town & Country 2011-2016 Dodge Avenger 2011-2014 Dodge Challenger 2011-2022 Dodge Charger 2011-2022 Dodge Durango 2011-2015 Dodge Grand Caravan 2011-2020 Dodge Journey 2011-2019 Jeep Grand Cherokee 2011-2015 Jeep Wrangler 2012-2018 Ram 1500 2013-2020 Ram 1500 Classic 2021-2023 Ram C",
+      "V 2012-2015 Ram ProMaster 1500 2014-2021 Ram ProMaster 2500 2014-2021 Ram ProMaster 3500 2014-2021"
+    ],
+    "precio_usd": 136.35
+  },
+  {
+    "codigo": "68266276AA",
+    "nombre": "Embellecedor",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram ProMaster City 2015-2018",
+    "compat_list": [
+      "Ram ProMaster City 2015-2018"
+    ],
+    "precio_usd": 20.88
+  },
+  {
+    "codigo": "05155674AA",
+    "nombre": "Emblema Ram delantero",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Avenger 2007-2010 Dodge Caliber 2007-2012 Dodge Journey 2009-2010",
+    "compat_list": [
+      "Dodge Avenger 2007-2010 Dodge Caliber 2007-2012 Dodge Journey 2009-2010"
+    ],
+    "precio_usd": 72.9
+  },
+  {
+    "codigo": "1FN59CA1AC",
+    "nombre": "Emblema wrangler",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2007-2017",
+    "compat_list": [
+      "Jeep Wrangler 2007-2017"
+    ],
+    "precio_usd": 70.97
+  },
+  {
+    "codigo": "4893804AB",
+    "nombre": "Empaquetadura tapa valvula derecha",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Pacifica 2017-2024 Chrysler Voyager 2020-2024 Dodge Durango 2016-2023 Jeep Gladiator 2020-2023 Jeep Grand Cherokee 2016-2024 Jeep Grand Cherokee L 2021-2024 Jeep Grand Cherokee WK 2022 Jeep Wrangler 2018-2024 Ram 1500 2019-2024 Ram ProMaster 1500 2022-2023 Ram ProMaster 2500 2022-2023 Ram ProMaster 3500 2022-2023",
+    "compat_list": [
+      "Chrysler Pacifica 2017-2024 Chrysler Voyager 2020-2024 Dodge Durango 2016-2023 Jeep Gladiator 2020-2023 Jeep Grand Cherokee 2016-2024 Jeep Grand Cherokee L 2021-2024 Jeep Grand Cherokee WK 2022 Jeep Wrangler 2018-2024 Ram 1500 2019-2024 Ram ProMaster 1500 2022-2023 Ram ProMaster 2500 2022-2023 Ram ProMaster 3500 2022-2023"
+    ],
+    "precio_usd": 13.34
+  },
+  {
+    "codigo": "68032203AA",
+    "nombre": "Enfriador de aceite",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Nitro 2007-2009 Jeep Liberty 2008-2012 Jeep Wrangler 2007-2018",
+    "compat_list": [
+      "Dodge Nitro 2007-2009 Jeep Liberty 2008-2012 Jeep Wrangler 2007-2018"
+    ],
+    "precio_usd": 900
+  },
+  {
+    "codigo": "5048043AD",
+    "nombre": "Engranaje eje de levas escape",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Pacifica 2017-2022 Chrysler Voyager 2020-2022 Dodge Durango 2016-2023 Jeep Gladiator 2020-2023 Jeep Grand Cherokee 2016-2023 Jeep Grand Cherokee L 2021-2023 Jeep Wrangler 2018-2023 Ram 1500 2019-2024",
+    "compat_list": [
+      "Chrysler Pacifica 2017-2022 Chrysler Voyager 2020-2022 Dodge Durango 2016-2023 Jeep Gladiator 2020-2023 Jeep Grand Cherokee 2016-2023 Jeep Grand Cherokee L 2021-2023 Jeep Wrangler 2018-2023 Ram 1500 2019-2024"
+    ],
+    "precio_usd": 80.34
+  },
+  {
+    "codigo": "68166658AA",
+    "nombre": "esclavo cilindro",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Dart 2012-2016 Jeep Cherokee 2015-2020 Jeep Renegade 2015-2018",
+    "compat_list": [
+      "Dodge Dart 2012-2016 Jeep Cherokee 2015-2020 Jeep Renegade 2015-2018"
+    ],
+    "precio_usd": 204.03
+  },
+  {
+    "codigo": "68401391AA",
+    "nombre": "Espejo exterior izquierdo luneta",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2019",
+    "compat_list": [
+      "Ram 1500 2019"
+    ],
+    "precio_usd": 76.09
+  },
+  {
+    "codigo": "68092051AB",
+    "nombre": "Espejo izquierdo luneta{",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2011-2022 Jeep Grand Cherokee 2011-2021",
+    "compat_list": [
+      "Dodge Durango 2011-2022 Jeep Grand Cherokee 2011-2021"
+    ],
+    "precio_usd": 52.17
+  },
+  {
+    "codigo": "5015267AD",
+    "nombre": "Filtro caja automatica",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Aspen 2007-2009 Dodge Dakota 2000-2007 Dodge Durango 2000-2009 Dodge Ram 1500 2002-2009 Dodge Ram 2500 2003-2009 Dodge Ram 3500 2003-2009 Jeep Commander 2006-2009 Jeep Grand Cherokee 2000-2009 Jeep Liberty 2002-2003",
+    "compat_list": [
+      "Chrysler Aspen 2007-2009 Dodge Dakota 2000-2007 Dodge Durango 2000-2009 Dodge Ram 1500 2002-2009 Dodge Ram 2500 2003-2009 Dodge Ram 3500 2003-2009 Jeep Commander 2006-2009 Jeep Grand Cherokee 2000-2009 Jeep Liberty 2002-2003"
+    ],
+    "precio_usd": 47.39
+  },
+  {
+    "codigo": "5184392AD",
+    "nombre": "Guia de cadena",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 200 2011-2017 Chrysler 300 2011-2023 Chrysler Town & Country 2011-2016 Dodge Avenger 2011-2014 Dodge Challenger 2011-2022 Dodge Charger 2011-2022 Dodge Durango 2011-2015 Dodge Grand Caravan 2011-2020 Dodge Journey 2011-2019 Jeep Cherokee 2014-2022 Jeep Grand Cherokee 2011-2019 Jeep Wrangler 2012-2018 Ram 1500 2013-2020 Ram 1500 Classic 2021-2023 Ram C/V 2012-2015 Ram ProMaster 1500 2014-2021 Ram ProMaster 3500 2014-2021",
+    "compat_list": [
+      "Chrysler 200 2011-2017 Chrysler 300 2011-2023 Chrysler Town & Country 2011-2016 Dodge Avenger 2011-2014 Dodge Challenger 2011-2022 Dodge Charger 2011-2022 Dodge Durango 2011-2015 Dodge Grand Caravan 2011-2020 Dodge Journey 2011-2019 Jeep Cherokee 2014-2022 Jeep Grand Cherokee 2011-2019 Jeep Wrangler 2012-2018 Ram 1500 2013-2020 Ram 1500 Classic 2021-2023 Ram C",
+      "V 2012-2015 Ram ProMaster 1500 2014-2021 Ram ProMaster 3500 2014-2021"
+    ],
+    "precio_usd": 7.95
+  },
+  {
+    "codigo": "68147262AA",
+    "nombre": "guia de valvula",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2012-2014 Jeep Grand Cherokee 2011-2015 Ram 1500 2014-2016",
+    "compat_list": [
+      "Chrysler 300 2012-2014 Jeep Grand Cherokee 2011-2015 Ram 1500 2014-2016"
+    ],
+    "precio_usd": 5.6
+  },
+  {
+    "codigo": "53021842AA",
+    "nombre": "Junta tapa de cilindro",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Aspen 2007 Dodge Dakota 2004-2007 Dodge Ram 1500 2004-2007 Dodge Ram 2500 2004 Dodge Ram 3500 2004 Jeep Commander 2006-2007 Jeep Grand Cherokee 2004-2007",
+    "compat_list": [
+      "Chrysler Aspen 2007 Dodge Dakota 2004-2007 Dodge Ram 1500 2004-2007 Dodge Ram 2500 2004 Dodge Ram 3500 2004 Jeep Commander 2006-2007 Jeep Grand Cherokee 2004-2007"
+    ],
+    "precio_usd": 44.69
+  },
+  {
+    "codigo": "4627714AA",
+    "nombre": "Junta urea",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 2500 2013-2018 Ram 3500 2013-2018 Ram 4500 2013-2018 Ram 5500 2013-2018",
+    "compat_list": [
+      "Ram 2500 2013-2018 Ram 3500 2013-2018 Ram 4500 2013-2018 Ram 5500 2013-2018"
+    ],
+    "precio_usd": 16.25
+  },
+  {
+    "codigo": "5189956AB",
+    "nombre": "Kit empaquetaduras",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 200 2011-2014 Chrysler Sebring 2007-2010 Dodge Avenger 2007-2014 Dodge Journey 2009-2020",
+    "compat_list": [
+      "Chrysler 200 2011-2014 Chrysler Sebring 2007-2010 Dodge Avenger 2007-2014 Dodge Journey 2009-2020"
+    ],
+    "precio_usd": 87.44
+  },
+  {
+    "codigo": "68069648AB",
+    "nombre": "Kit rotula dirección",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2011-2015 Jeep Grand Cherokee 2011-2015",
+    "compat_list": [
+      "Dodge Durango 2011-2015 Jeep Grand Cherokee 2011-2015"
+    ],
+    "precio_usd": 117.61
+  },
+  {
+    "codigo": "5JG58BD1AD",
+    "nombre": "Lampara teho",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Dakota 2004-2010 Dodge Durango 2004-2009 Dodge Ram 1500 2005-2010 Dodge Ram 4500 2008 Dodge Ram 5500 2008 Jeep Commander 2009-2010 Jeep Liberty 2005-2007 Ram 1500 2011-2020 Ram 1500 Classic 2021 Ram 2500 2011-2018 Ram 3500 2011-2018 Ram 4500 2012-2018 Ram 5500 2012-2018",
+    "compat_list": [
+      "Dodge Dakota 2004-2010 Dodge Durango 2004-2009 Dodge Ram 1500 2005-2010 Dodge Ram 4500 2008 Dodge Ram 5500 2008 Jeep Commander 2009-2010 Jeep Liberty 2005-2007 Ram 1500 2011-2020 Ram 1500 Classic 2021 Ram 2500 2011-2018 Ram 3500 2011-2018 Ram 4500 2012-2018 Ram 5500 2012-2018"
+    ],
+    "precio_usd": 42.56
+  },
+  {
+    "codigo": "05182025AA",
+    "nombre": "Luz techo",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Sebring 2010 Chrysler Town & Country 2010 Dodge Caliber 2010-2012 Dodge Challenger 2011-2014 Dodge Charger 2010 Dodge Grand Caravan 2010 Dodge Nitro 2010-2011 Jeep Compass 2010 Jeep Patriot 2010",
+    "compat_list": [
+      "Chrysler Sebring 2010 Chrysler Town & Country 2010 Dodge Caliber 2010-2012 Dodge Challenger 2011-2014 Dodge Charger 2010 Dodge Grand Caravan 2010 Dodge Nitro 2010-2011 Jeep Compass 2010 Jeep Patriot 2010"
+    ],
+    "precio_usd": 56.71
+  },
+  {
+    "codigo": "1RH64KW3AG",
+    "nombre": "Manilla exterior",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Journey 2017-2020",
+    "compat_list": [
+      "Dodge Journey 2017-2020"
+    ],
+    "precio_usd": 101.8
+  },
+  {
+    "codigo": "1SP27GW7AC",
+    "nombre": "Manilla exterior",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2013-2023 Jeep Grand Cherokee 2014-2021 Jeep Grand Cherokee WK 2022",
+    "compat_list": [
+      "Dodge Durango 2013-2023 Jeep Grand Cherokee 2014-2021 Jeep Grand Cherokee WK 2022"
+    ],
+    "precio_usd": 139.75
+  },
+  {
+    "codigo": "68079284AB",
+    "nombre": "Motor alzavidrio",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2011-2023 Jeep Cherokee 2014-2023 Jeep Grand Cherokee 2011-2022 Jeep Grand Cherokee WK 2022",
+    "compat_list": [
+      "Dodge Durango 2011-2023 Jeep Cherokee 2014-2023 Jeep Grand Cherokee 2011-2022 Jeep Grand Cherokee WK 2022"
+    ],
+    "precio_usd": 91.73
+  },
+  {
+    "codigo": "68402358AA",
+    "nombre": "Motor caja de transferencia",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2019-2024",
+    "compat_list": [
+      "Ram 1500 2019-2024"
+    ],
+    "precio_usd": 307.6
+  },
+  {
+    "codigo": "68031873AA",
+    "nombre": "Motor de AC",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 200 2011-2014 Chrysler Sebring 2008-2010 Dodge Avenger 2008-2014 Dodge Caliber 2008-2012 Jeep Patriot 2010-2017",
+    "compat_list": [
+      "Chrysler 200 2011-2014 Chrysler Sebring 2008-2010 Dodge Avenger 2008-2014 Dodge Caliber 2008-2012 Jeep Patriot 2010-2017"
+    ],
+    "precio_usd": 325.6
+  },
+  {
+    "codigo": "68140324AA",
+    "nombre": "neblinero foco",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Dart 2014-2016 Jeep Compass 2011-2017",
+    "compat_list": [
+      "Dodge Dart 2014-2016 Jeep Compass 2011-2017"
+    ],
+    "precio_usd": 79.12
+  },
+  {
+    "codigo": "68091384AB",
+    "nombre": "parque de enchufe",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2011-2013",
+    "compat_list": [
+      "Jeep Grand Cherokee 2011-2013"
+    ],
+    "precio_usd": 12.56
+  },
+  {
+    "codigo": "5011983AA",
+    "nombre": "Piston caliper freno",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 1999-2004",
+    "compat_list": [
+      "Jeep Grand Cherokee 1999-2004"
+    ],
+    "precio_usd": 400
+  },
+  {
+    "codigo": "68358389AA",
+    "nombre": "Plumilla limpiaparabrisas",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Compass 2018-2023",
+    "compat_list": [
+      "Jeep Compass 2018-2023"
+    ],
+    "precio_usd": 27.32
+  },
+  {
+    "codigo": "4627094AA",
+    "nombre": "Polea guia de distribucion",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Journey 2011-2017",
+    "compat_list": [
+      "Dodge Journey 2011-2017"
+    ],
+    "precio_usd": 23.27
+  },
+  {
+    "codigo": "68040206AA",
+    "nombre": "Polea tensora",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Sprinter 2500 2007-2009 Dodge Sprinter 3500 2007-2009 Jeep Grand Cherokee 2007-2009",
+    "compat_list": [
+      "Dodge Sprinter 2500 2007-2009 Dodge Sprinter 3500 2007-2009 Jeep Grand Cherokee 2007-2009"
+    ],
+    "precio_usd": 229.11
+  },
+  {
+    "codigo": "04891797AB",
+    "nombre": "Polea tensora",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 200 2011-2014 Chrysler Sebring 2007-2010 Dodge Avenger 2007-2014 Dodge Caliber 2007-2012 Dodge Journey 2009-2020 Jeep Compass 2007-2017",
+    "compat_list": [
+      "Chrysler 200 2011-2014 Chrysler Sebring 2007-2010 Dodge Avenger 2007-2014 Dodge Caliber 2007-2012 Dodge Journey 2009-2020 Jeep Compass 2007-2017"
+    ],
+    "precio_usd": 31.84
+  },
+  {
+    "codigo": "4885482AC",
+    "nombre": "Resistencia del calentador",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Caravan 2004-2005 Dodge Durango 2004 Dodge Nitro 2007-2011 Jeep Liberty 2009-2011",
+    "compat_list": [
+      "Dodge Caravan 2004-2005 Dodge Durango 2004 Dodge Nitro 2007-2011 Jeep Liberty 2009-2011"
+    ],
+    "precio_usd": 20
+  },
+  {
+    "codigo": "53021974AA",
+    "nombre": "Reten",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Aspen 2007 Dodge Dakota 2001-2011 Dodge Durango 2001-2009 Dodge Nitro 2007-2011 Dodge Ram 1500 2002-2010 Dodge Ram 2500 2003-2004 Dodge Ram 3500 2003-2004 Jeep Commander 2006-2010 Jeep Grand Cherokee 2001-2010 Jeep Liberty 2002-2012 Ram Dakota 2011",
+    "compat_list": [
+      "Chrysler Aspen 2007 Dodge Dakota 2001-2011 Dodge Durango 2001-2009 Dodge Nitro 2007-2011 Dodge Ram 1500 2002-2010 Dodge Ram 2500 2003-2004 Dodge Ram 3500 2003-2004 Jeep Commander 2006-2010 Jeep Grand Cherokee 2001-2010 Jeep Liberty 2002-2012 Ram Dakota 2011"
+    ],
+    "precio_usd": 10.55
+  },
+  {
+    "codigo": "68148406AA",
+    "nombre": "Reten cigueñal",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2014 Ram 1500 2014-2019",
+    "compat_list": [
+      "Chrysler 300 2014 Ram 1500 2014-2019"
+    ],
+    "precio_usd": 62.67
+  },
+  {
+    "codigo": "68003270AA",
+    "nombre": "Reten eje trasero",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Wrangler 2007-2018",
+    "compat_list": [
+      "Jeep Wrangler 2007-2018"
+    ],
+    "precio_usd": 35.87
+  },
+  {
+    "codigo": "05047637AC",
+    "nombre": "Rodamiento varilla",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 200 2015-2017 Dodge Dart 2012-2016 Jeep Cherokee 2014-2022 Jeep Compass 2018-2022 Jeep Renegade 2015-2021 Ram ProMaster City 2015-2022",
+    "compat_list": [
+      "Chrysler 200 2015-2017 Dodge Dart 2012-2016 Jeep Cherokee 2014-2022 Jeep Compass 2018-2022 Jeep Renegade 2015-2021 Ram ProMaster City 2015-2022"
+    ],
+    "precio_usd": 4.39
+  },
+  {
+    "codigo": "68224935AB",
+    "nombre": "Rotula axial",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Cherokee 2014-2018",
+    "compat_list": [
+      "Jeep Cherokee 2014-2018"
+    ],
+    "precio_usd": 159.06
+  },
+  {
+    "codigo": "68159271AA",
+    "nombre": "Sensor ABS",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Magnum 2005-2008",
+    "compat_list": [
+      "Dodge Magnum 2005-2008"
+    ],
+    "precio_usd": 197.58
+  },
+  {
+    "codigo": "68170065AE",
+    "nombre": "Sensor abs delantero",
+    "ubicacion": "B3",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 1500 2016-2020",
+    "compat_list": [
+      "Ram 1500 2016-2020"
+    ],
+    "precio_usd": 65.84
+  },
+  {
+    "codigo": "56010319AC",
+    "nombre": "Sensor airbag",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2003-2004 Jeep Liberty 2002-2003",
+    "compat_list": [
+      "Jeep Grand Cherokee 2003-2004 Jeep Liberty 2002-2003"
+    ],
+    "precio_usd": 157.94
+  },
+  {
+    "codigo": "05048045AB",
+    "nombre": "Sensor arbol de levas",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Pacifica 2017-2020 Chrysler Voyager 2020 Dodge Durango 2016-2021 Dodge Hornet 2023 Jeep Cherokee 2019-2022 Jeep Gladiator 2020-2021 Jeep Grand Cherokee 2016-2023 Jeep Grand Cherokee L 2021-2023 Jeep Wrangler 2018-2023 Ram 1500 2019-2021 Ram ProMaster 1500 2022 Ram ProMaster 2500 2022 Ram ProMaster 3500 2022-2023",
+    "compat_list": [
+      "Chrysler Pacifica 2017-2020 Chrysler Voyager 2020 Dodge Durango 2016-2021 Dodge Hornet 2023 Jeep Cherokee 2019-2022 Jeep Gladiator 2020-2021 Jeep Grand Cherokee 2016-2023 Jeep Grand Cherokee L 2021-2023 Jeep Wrangler 2018-2023 Ram 1500 2019-2021 Ram ProMaster 1500 2022 Ram ProMaster 2500 2022 Ram ProMaster 3500 2022-2023"
+    ],
+    "precio_usd": 138.58
+  },
+  {
+    "codigo": "56029777AC",
+    "nombre": "Sensor batería",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2017-2023 Dodge Challenger 2017-2022 Dodge Charger 2017-2023 Dodge Durango 2020-2021 Jeep Cherokee 2017-2022 Jeep Grand Cherokee 2020-2021",
+    "compat_list": [
+      "Chrysler 300 2017-2023 Dodge Challenger 2017-2022 Dodge Charger 2017-2023 Dodge Durango 2020-2021 Jeep Cherokee 2017-2022 Jeep Grand Cherokee 2020-2021"
+    ],
+    "precio_usd": 66.51
+  },
+  {
+    "codigo": "68457707AA",
+    "nombre": "Sensor velocidad tueda trasera izquierda",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Ram 2500 2020 Ram 3500 2020",
+    "compat_list": [
+      "Ram 2500 2020 Ram 3500 2020"
+    ],
+    "precio_usd": 47.54
+  },
+  {
+    "codigo": "5116282AB",
+    "nombre": "Soporte lateral derecho",
+    "ubicacion": "B3",
+    "tipo": "Suelto",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Journey 2009-2020",
+    "compat_list": [
+      "Dodge Journey 2009-2020"
+    ],
+    "precio_usd": 35.73
+  },
+  {
+    "codigo": "68050141AB",
+    "nombre": "Suspensión hidraulica",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler Town & Country 2011 Dodge Grand Caravan 2011",
+    "compat_list": [
+      "Chrysler Town & Country 2011 Dodge Grand Caravan 2011"
+    ],
+    "precio_usd": 498.3
+  },
+  {
+    "codigo": "52121450AD",
+    "nombre": "Tapa centro llanta",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Ram 2500 2003-2010 Dodge Ram 3500 2003-2010 Ram 2500 2011-2013 Ram 3500 2011-2013",
+    "compat_list": [
+      "Dodge Ram 2500 2003-2010 Dodge Ram 3500 2003-2010 Ram 2500 2011-2013 Ram 3500 2011-2013"
+    ],
+    "precio_usd": 170.33
+  },
+  {
+    "codigo": "68382361AA",
+    "nombre": "Tapon deposito de agua",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Dodge Durango 2020-2021 Jeep Cherokee 2019-2023 Jeep Gladiator 2021 Jeep Grand Cherokee 2020-2021 Jeep Grand Cherokee WK 2022 Jeep Grand Wagoneer 2022-2024 Jeep Grand Wagoneer L 2023-2024 Jeep Wagoneer 2022-2024 Jeep Wagoneer L 2023-2024 Ram 1500 2020-2024 Ram 1500 Classic 2021-2023",
+    "compat_list": [
+      "Dodge Durango 2020-2021 Jeep Cherokee 2019-2023 Jeep Gladiator 2021 Jeep Grand Cherokee 2020-2021 Jeep Grand Cherokee WK 2022 Jeep Grand Wagoneer 2022-2024 Jeep Grand Wagoneer L 2023-2024 Jeep Wagoneer 2022-2024 Jeep Wagoneer L 2023-2024 Ram 1500 2020-2024 Ram 1500 Classic 2021-2023"
+    ],
+    "precio_usd": 3.81
+  },
+  {
+    "codigo": "4781570AB",
+    "nombre": "Tensor correa",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler PT Cruiser 2003-2010 Chrysler Sebring 2003-2006 Chrysler Town & Country 2003-2007 Chrysler Voyager 2003 Dodge Caravan 2003-2007 Dodge Grand Caravan 2003-2007 Dodge Neon 2003-2005 Dodge Stratus 2003-2006 Jeep Liberty 2003-2005 Jeep Wrangler 2003-2006",
+    "compat_list": [
+      "Chrysler PT Cruiser 2003-2010 Chrysler Sebring 2003-2006 Chrysler Town & Country 2003-2007 Chrysler Voyager 2003 Dodge Caravan 2003-2007 Dodge Grand Caravan 2003-2007 Dodge Neon 2003-2005 Dodge Stratus 2003-2006 Jeep Liberty 2003-2005 Jeep Wrangler 2003-2006"
+    ],
+    "precio_usd": 141.94
+  },
+  {
+    "codigo": "68156905AA",
+    "nombre": "Terminal de direccion izquierda",
+    "ubicacion": "B4",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2011-2014 Dodge Charger 2011-2022",
+    "compat_list": [
+      "Chrysler 300 2011-2014 Dodge Charger 2011-2022"
+    ],
+    "precio_usd": 102.72
+  },
+  {
+    "codigo": "68263727AB",
+    "nombre": "Terminal direccional",
+    "ubicacion": "B2",
+    "tipo": "Caja",
+    "marca": "Mopar",
+    "compatibilidades": "Chrysler 300 2015-2017 Dodge Challenger 2015-2017 Dodge Charger 2015-2017",
+    "compat_list": [
+      "Chrysler 300 2015-2017 Dodge Challenger 2015-2017 Dodge Charger 2015-2017"
+    ],
+    "precio_usd": 103.45
+  },
+  {
+    "codigo": "68224789AA",
+    "nombre": "Tuberia linea de inyeccion",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2014-2021 Ram 1500 2014-2019",
+    "compat_list": [
+      "Jeep Grand Cherokee 2014-2021 Ram 1500 2014-2019"
+    ],
+    "precio_usd": 7.45
+  },
+  {
+    "codigo": "68224792AA",
+    "nombre": "Tuberia linea de inyeccion",
+    "ubicacion": "B3",
+    "tipo": "Bolsa",
+    "marca": "Mopar",
+    "compatibilidades": "Jeep Grand Cherokee 2014-2021 Ram 1500 2014-2019",
+    "compat_list": [
+      "Jeep Grand Cherokee 2014-2021 Ram 1500 2014-2019"
+    ],
+    "precio_usd": 63.89
+  }
+]
