@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
 import { useParams, useRouter } from "next/navigation";
-import { clp } from "@/lib/format";
 import { useCart } from "@/components/cart-provider";
 import { findProduct } from "@/lib/products";
 

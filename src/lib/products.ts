@@ -1,5 +1,14 @@
 import INVENTARIO from "@/data/inventario.json";
 
+type RawProducto = {
+  codigo: string;
+  nombre: string;
+  precio_usd?: number;
+  marca?: string;
+  image?: string;
+  compat_list?: string[];
+};
+
 export type Producto = {
   id: string;
   slug: string;
@@ -12,7 +21,7 @@ export type Producto = {
 };
 
 export function allProducts(): Producto[] {
-  return (INVENTARIO as any[]).map((p) => ({
+  return (INVENTARIO as RawProducto[]).map((p) => ({
     id: p.codigo,
     slug: p.codigo,
     name: p.nombre,
