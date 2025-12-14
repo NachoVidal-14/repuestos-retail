@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { ProductGrid } from "@/components/product-grid";
 import { allProducts } from "@/lib/products";
 import PromoHero from "@/components/promo-hero";
